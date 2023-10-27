@@ -1,1 +1,2 @@
-to folder SiNWO
+to jest SiNWO2
+
